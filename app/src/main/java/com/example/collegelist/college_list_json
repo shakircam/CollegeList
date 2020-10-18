@@ -1,0 +1,180 @@
+{
+  "collegelist": [
+    {
+      "collegeName": "Notre Deam College",
+      "district": "Dhaka",
+      "chief": "Abdur Rahim",
+      "email": "notredeam.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/DkWRp2l.jpg"
+    },
+    {
+      "collegeName": "Dhaka College",
+      "district": "Dhaka",
+      "chief": "Zakir Hossain",
+      "email": "dhakacollege.edu.bd",
+      "phone": "01724800244",
+      "imageUrl": "https://i.imgur.com/ACQSqRb.jpg"
+    },
+    {
+      "collegeName": "Comilla Victoria College",
+      "district": "Comilla",
+      "chief": "Md Norul Haque",
+      "email": "victoriacollege.edu.bd",
+      "phone": "01525500266",
+      "imageUrl": "https://i.imgur.com/2F4LJh2.jpg"
+    },
+    {
+      "collegeName": "Dhaka University",
+      "district": "Dhaka",
+      "chief": "Motin Mia",
+      "email": "du.edu.bd",
+      "phone": "01814800005",
+      "imageUrl": "https://i.imgur.com/c4xrIi0.jpg"
+    },
+    {
+      "collegeName": "Comilla University",
+      "district": "Comilla",
+      "chief": "Abdur Rahim",
+      "email": "notredeam.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/Gu29gvt.jpg"
+    },
+    {
+      "collegeName": "Dhaka city College",
+      "district": "Dhaka",
+      "chief": "Javed hassan",
+      "email": "citycollege.edu.bd",
+      "phone": "01912200333",
+      "imageUrl": "https://i.imgur.com/MZKoiUL.png"
+    },
+    {
+      "collegeName": "Chittagong University",
+      "district": "Chittagong",
+      "chief": "Jamal haque",
+      "email": "cu.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/DkWRp2l.jpg"
+    },
+    {
+      "collegeName": "Rajshahi University",
+      "district": "Rajshahi",
+      "chief": "Faruk Hossan",
+      "email": "raj.edu.bd",
+      "phone": "01634800255",
+      "imageUrl": "https://i.imgur.com/sSQDGSi.jpg"
+    },
+    {
+      "collegeName": "Islamick University",
+      "district": "Kustia",
+      "chief": "Abdur Rahim",
+      "email": "notredeam.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/fwUjzro.jpg"
+    },
+    {
+      "collegeName": "BM College",
+      "district": "Barishal",
+      "chief": "Abdur Rahim",
+      "email": "bm.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/pxAPJmW.jpg"
+    },
+    {
+      "collegeName": "Shajalal University",
+      "district": "Sylhet",
+      "chief": "Abdur Rahim",
+      "email": "sha.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/q8y6u0L.jpg"
+    },
+    {
+      "collegeName": "Jahangirnagor University ",
+      "district": "Dhaka",
+      "chief": "Abdur Rahim",
+      "email": "ju.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/xUwqa10.jpg"
+    },
+    {
+      "collegeName": "Jagannath University",
+      "district": "Dhaka",
+      "chief": "Abdur Rahim",
+      "email": "jau.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/FqgbuPZ.jpg"
+    },
+    {
+      "collegeName": "Rajshahi Engineering",
+      "district": "Rajshahi",
+      "chief": "Abdur Rahim",
+      "email": "ruet.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/uM9lBJ8.jpg"
+    },
+    {
+      "collegeName": "Buet ",
+      "district": "Dhaka",
+      "chief": "Abdur Rahim",
+      "email": "buet.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/osOOn0d.jpg"
+    },
+    {
+      "collegeName": "Chittagong Engineering",
+      "district": "Chittagong",
+      "chief": "Abdur Rahim",
+      "email": "cuet.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/hruDZjU.jpg"
+    },
+    {
+      "collegeName": "Dhaka Engineering",
+      "district": "Dhaka",
+      "chief": "Abdur Rahim",
+      "email": "duet.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/miHiimE.jpg"
+    },
+    {
+      "collegeName": "East West University",
+      "district": "Dhaka",
+      "chief": "Abdur Rahim",
+      "email": "east.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/JbbThs3.jpg"
+    },
+    {
+      "collegeName": "American International",
+      "district": "Dhaka",
+      "chief": "Abdur Rahim",
+      "email": "aiub.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/qj89Lz3.jpg"
+    },
+    {
+      "collegeName": "Nowakhali Science",
+      "district": "Nowakhali",
+      "chief": "Abdur Rahim",
+      "email": "diu.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/Sl8T2fL.png"
+    },
+     {
+      "collegeName": "Nation university",
+      "district": "Gazipur",
+      "chief": "Abdur Rahim",
+      "email": "diu.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/v1vxroZ.jpg"
+    },
+     {
+      "collegeName": "Agricultural university",
+      "district": "Maymenshing",
+      "chief": "Abdur Rahim",
+      "email": "diu.edu.bd",
+      "phone": "01524800255",
+      "imageUrl": "https://i.imgur.com/QSMy2J6.jpg"
+    }
+  ]
+}
